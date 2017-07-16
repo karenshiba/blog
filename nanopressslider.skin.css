@@ -1108,3 +1108,6 @@ a.post-tag {
 .post-body table td {border: 1px solid #BDC3C9;padding:3px 5px;vertical-align: middle;}
 .post-body table th, .post-body table tr:first-child {background: #dcf9f6;vertical-align: middle;text-align: center;}
 #HTML9{margin-top: 10px;}
+.post p{
+    line-height: 1.8em;
+    text-align: justify;}
