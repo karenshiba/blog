@@ -1110,4 +1110,6 @@ a.post-tag {
 #HTML9{margin-top: 10px;}
 .post p{
     line-height: 1.8em;
-    text-align: justify;}
+    text-align: justify;
+    margin-bottom: 15px;
+}
