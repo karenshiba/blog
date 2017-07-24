@@ -1105,7 +1105,7 @@ a.post-tag {
 .status-msg-border {border: 1px solid #f0f0f0;opacity: 1;display: none;}
 .status-msg-wrap {margin: 0 auto 35px;background: #c3ceb6;height: 38px; line-height: 30px;width: 100%;}
 .status-msg-body {font-size: 15px;}
-.post-body div{margin-bottom: 15px;text-align: center;line-height: 1.65em;}.post-body table {width: 90%;margin: 0 auto;}
+.post-body div{margin-bottom: 15px;text-align: justify;line-height: 1.65em;}.post-body table {width: 90%;margin: 0 auto;}
 .post-body table td {border: 1px solid #BDC3C9;padding:3px 5px;vertical-align: middle;}
 .post-body table th, .post-body table tr:first-child {background: #dcf9f6;vertical-align: middle;text-align: center;}
 #HTML9{margin-top: 10px;}
