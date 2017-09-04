@@ -335,7 +335,7 @@ div.post_author_date a{text-decoration:none}
 .static_page .post-meta,.static_page .old_new{display:none}
 .firstcharacter{float:left;color:#fed130;font-size:75px;line-height:60px;padding-top:4px;padding-right:8px;padding-left:3px}
 .post-body h1,.post-body h2,.post-body h3,.post-body h4,.post-body h5,.post-body h6{margin-bottom:15px;color:#222}
-blockquote{font-style:italic;color: #b50808;font-size:15px;line-height:1.5em;margin:10px 10px 10p 35px;padding:10px 15px 10px 0;}
+blockquote{font-style:italic;color: #b50808;font-size:15px;line-height:1.5em;margin:10px 10px 10px 35px;padding:10px 15px 10px 0;}
 blockquote:before{content:'\f10d';display:inline-block;color: #ff0101;font-family:FontAwesome;font-style:normal;font-weight:400;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin-right: 5px; margin-left: -22px;}
 blockquote:after{content:'\f10e';display:inline-block;color: #ff0101;font-family:FontAwesome;font-style:normal;font-weight:400;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin-left:10px}
 .widget .post-body ul,.widget .post-body ol{line-height:1.5;font-weight:400}
