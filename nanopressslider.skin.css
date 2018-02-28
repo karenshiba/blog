@@ -286,7 +286,7 @@ div.post_author_date a{text-decoration:none}
 .item .post-title,.static_page .post-title{color:#222;display:inline-block;font-size:32px;font-weight:400;position:relative;line-height:1.3em}
 .item .post-body,.static_page .post-body{width:100%;font-size:15px;line-height:1.5em;overflow:hidden}
 .item .post-outer{padding:0}
-.item .post-body img{max-width:100%;height: auto;}
+.item .post-body img{max-width:100%;height: auto;margin: 10px 0;}
 .post-meta a,.post-meta i{color:#222}
 .post-meta .post-author a:after{content:"-";margin:0 6px 0 8px}
 .post-timestamp{margin-left:0}
