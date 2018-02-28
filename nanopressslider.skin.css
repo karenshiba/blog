@@ -339,7 +339,7 @@ blockquote{font-style:italic;color: #b50808;font-size:15px;line-height:1.5em;mar
 blockquote:before{content:'\f10d';display:inline-block;color: #ff0101;font-family:FontAwesome;font-style:normal;font-weight:400;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin-right: 5px; margin-left: -22px;}
 blockquote:after{content:'\f10e';display:inline-block;color: #ff0101;font-family:FontAwesome;font-style:normal;font-weight:400;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin-left:10px}
 .widget .post-body ul,.widget .post-body ol{line-height:1.5;font-weight:400}
-.widget .post-body ul li{font-size:13px;margin:5px 0;padding:0;line-height:1.5}
+.widget .post-body ul li{font-size:14px;margin:5px 0;padding:0;line-height:1.5}
 .post-body ul li:before{content:"\f105";margin-right:5px;font-family:fontawesome}
 .blogger-tab{display:block}
 .comments{clear:both;margin-top:0;margin-bottom:0;color:#222}
