@@ -1091,7 +1091,7 @@ a.post-tag {
 .sidebar ul {margin-left: 30px;}
 .sidebar h2 {margin-bottom: 10px;}
 .post-body h1, .post-body h2{color: #427fed;margin: 25px 0 15px 0;}
-.post-body h3, .post-body h4, .post-body h5, .post-body h6 {color: #427fed;margin: 10px 0 15px 0;}
+.post-body h3, .post-body h4, .post-body h5, .post-body h6 {margin: 10px 0 15px 0;}
 #PageList1 ul li{list-style: square; margin-left: 46px;color: #fff; line-height: 2em;}
 #PageList1 ul li a {color: #fed130;}
 .FollowByEmail .widget-content {padding: 15px;}
