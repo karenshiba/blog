@@ -7,7 +7,7 @@ caption,th{text-align:center}
 img{border:none;position:relative}
 .clear{clear:both}
 .section,.widget,.widget ul{margin:0;padding:0}
-h1,h2,h3,h4,h5,h6{padding:0;margin:0}
+h1,h2,h3,h4,h5,h6{padding:0;margin:0;line-height: 1.4em;}
 a:link,a:hover,a:visited{color:#fed130;text-decoration:none}
 :focus{outline:0}
 a img{border:0}
